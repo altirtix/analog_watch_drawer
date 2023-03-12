@@ -1,0 +1,60 @@
+E:\College\Olympiad\C\Варианты решений\2019\5 Годинник\Watch\Watch\bin\Debug\Watch.exe.config
+E:\College\Olympiad\C\Варианты решений\2019\5 Годинник\Watch\Watch\bin\Debug\Watch.exe
+E:\College\Olympiad\C\Варианты решений\2019\5 Годинник\Watch\Watch\bin\Debug\Watch.pdb
+E:\College\Olympiad\C\Варианты решений\2019\5 Годинник\Watch\Watch\obj\Debug\Watch.csprojResolveAssemblyReference.cache
+E:\College\Olympiad\C\Варианты решений\2019\5 Годинник\Watch\Watch\obj\Debug\Watch.Form1.resources
+E:\College\Olympiad\C\Варианты решений\2019\5 Годинник\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+E:\College\Olympiad\C\Варианты решений\2019\5 Годинник\Watch\Watch\obj\Debug\Watch.csproj.GenerateResource.Cache
+E:\College\Olympiad\C\Варианты решений\2019\5 Годинник\Watch\Watch\obj\Debug\Watch.exe
+E:\College\Olympiad\C\Варианты решений\2019\5 Годинник\Watch\Watch\obj\Debug\Watch.pdb
+E:\College\Olympiad\Watch\Watch\bin\Debug\Watch.exe.config
+E:\College\Olympiad\Watch\Watch\obj\Debug\Watch.exe
+E:\College\Olympiad\Watch\Watch\obj\Debug\Watch.pdb
+E:\College\Olympiad\Watch\Watch\bin\Debug\Watch.exe
+E:\College\Olympiad\Watch\Watch\bin\Debug\Watch.pdb
+E:\College\Olympiad\Watch\Watch\obj\Debug\Watch.csprojResolveAssemblyReference.cache
+E:\College\Olympiad\Watch\Watch\obj\Debug\Watch.Form1.resources
+E:\College\Olympiad\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+E:\College\Olympiad\Watch\Watch\obj\Debug\Watch.csproj.GenerateResource.Cache
+E:\Education\Lessons\CSharp\Исходники\Watch\Watch\bin\Debug\Watch.exe.config
+E:\Education\Lessons\CSharp\Исходники\Watch\Watch\bin\Debug\Watch.exe
+E:\Education\Lessons\CSharp\Исходники\Watch\Watch\bin\Debug\Watch.pdb
+E:\Education\Lessons\CSharp\Исходники\Watch\Watch\obj\Debug\Watch.csprojAssemblyReference.cache
+E:\Education\Lessons\CSharp\Исходники\Watch\Watch\obj\Debug\Watch.Form1.resources
+E:\Education\Lessons\CSharp\Исходники\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+E:\Education\Lessons\CSharp\Исходники\Watch\Watch\obj\Debug\Watch.csproj.GenerateResource.cache
+E:\Education\Lessons\CSharp\Исходники\Watch\Watch\obj\Debug\Watch.csproj.CoreCompileInputs.cache
+E:\Education\Lessons\CSharp\Исходники\Watch\Watch\obj\Debug\Watch.exe
+E:\Education\Lessons\CSharp\Исходники\Watch\Watch\obj\Debug\Watch.pdb
+D:\Education\Lessons\Analyze\Исходники\Watch\Watch\obj\Debug\Watch.csprojAssemblyReference.cache
+D:\Education\Lessons\Analyze\Исходники\Watch\Watch\obj\Debug\Watch.Form1.resources
+D:\Education\Lessons\Analyze\Исходники\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+D:\Education\Lessons\Analyze\Исходники\Watch\Watch\obj\Debug\Watch.csproj.GenerateResource.cache
+D:\Education\Lessons\Analyze\Исходники\Watch\Watch\obj\Debug\Watch.csproj.CoreCompileInputs.cache
+D:\Education\Lessons\Analyze\Исходники\Watch\Watch\obj\Debug\Watch.exe
+D:\Education\Lessons\Analyze\Исходники\Watch\Watch\obj\Debug\Watch.pdb
+D:\Education\Lessons\Analyze\Исходники\Watch\Watch\bin\Debug\Watch.exe.config
+D:\Education\Lessons\Analyze\Исходники\Watch\Watch\bin\Debug\Watch.exe
+D:\Education\Lessons\Analyze\Исходники\Watch\Watch\bin\Debug\Watch.pdb
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\bin\Debug\Watch.exe.config
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\bin\Debug\Watch.exe
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\bin\Debug\Watch.pdb
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\obj\Debug\Watch.csproj.AssemblyReference.cache
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\obj\Debug\Watch.csproj.SuggestedBindingRedirects.cache
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\obj\Debug\Watch.Form1.resources
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\obj\Debug\Watch.csproj.GenerateResource.cache
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\obj\Debug\Watch.csproj.CoreCompileInputs.cache
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\obj\Debug\Watch.exe
+E:\Education\Bachelor\System analyze and computer systems design\Projects\Watch\Watch\obj\Debug\Watch.pdb
+C:\Users\ASUS\Desktop\Watch\Watch\bin\Debug\Watch.exe.config
+C:\Users\ASUS\Desktop\Watch\Watch\bin\Debug\Watch.exe
+C:\Users\ASUS\Desktop\Watch\Watch\bin\Debug\Watch.pdb
+C:\Users\ASUS\Desktop\Watch\Watch\obj\Debug\Watch.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Watch\Watch\obj\Debug\Watch.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Watch\Watch\obj\Debug\Watch.Form1.resources
+C:\Users\ASUS\Desktop\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Watch\Watch\obj\Debug\Watch.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Watch\Watch\obj\Debug\Watch.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Watch\Watch\obj\Debug\Watch.exe
+C:\Users\ASUS\Desktop\Watch\Watch\obj\Debug\Watch.pdb
